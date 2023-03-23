@@ -1,0 +1,41 @@
+event_datetime,event_date,event_time,event_location,event_address,event_city,event_state,event_zip
+2017-09-14 10:30:00,2017-09-14,10:30:00,A C Reynolds High School,1 Rocket Dr,Asheville,NC,28803
+2017-01-11 18:30:00,2017-01-11,18:30:00,Brashier Mid College Chrt HS,1830 W Georgia Rd Bldg 203,Simpsonville,SC,29680
+2017-01-26 24:00:00,2017-01-26,24:00:00,Williston Elko High School,12233 Main St,Williston,SC,29853
+2017-01-29 13:30:00,2017-01-29,13:30:00,Christ Church Episcopal School,567 Wenwood Rd,Greenville,SC,29607
+2017-02-04 09:00:00,2017-02-04,09:00:00,Timmons Arena,3300 Poinsett Hwy,Greenville,SC,29613
+2017-02-09 19:00:00,2017-02-09,19:00:00,Porter-Gaud School,300 Albemarle Rd,Charleston,SC,29407
+2017-02-15 07:15:00,2017-02-15,07:15:00,Lake City High School,PO Box 1569,Lake City,SC,29560
+2017-02-15 08:00:00,2017-02-15,08:00:00,Goose Creek High School,1137 Red Bank Rd,Goose Creek,SC,29445
+2017-02-15 11:00:00,2017-02-15,11:00:00,Berkeley High School,406 W Main St,Moncks Corner,SC,29461
+2017-02-15 24:05:00,2017-02-15,24:05:00,South Florence High School,3200 S Irby St,Florence,SC,29505
+2017-02-16 07:30:00,2017-02-16,07:30:00,West Ashley High School,4060 Wildcat Blvd,Charleston,SC,29414
+2017-02-16 09:00:00,2017-02-16,09:00:00,Crestwood High School,2000 Oswego Hwy,Sumter,SC,29153
+2017-09-26 11:00:00,2017-09-26,11:00:00,Academy Of Notre Dame De Namur,560 Sproul Rd,Villanova,PA,19085
+2017-09-20 13:00:00,2017-09-20,13:00:00,Academy Of The Holy Cross,4920 Strathmore Ave,Kensington,MD,20895
+2017-08-08 08:00:00,2017-08-08,08:00:00,Academy Of The Holy Cross,4920 Strathmore Ave,Kensington,MD,20895
+2017-10-25 10:00:00,2017-10-25,10:00:00,Academy Of The Holy Names,3319 Bayshore Bvld,Tampa,FL,33629
+2017-09-20 09:35:00,2017-09-20,09:35:00,Acalanes High School,1200 Pleasant Hill Rd,Lafayette,CA,94549
+2017-10-26 08:30:00,2017-10-26,08:30:00,Addison Trail High School,213 N Lombard Rd,Addison,IL,60101
+2017-04-18 18:00:00,2017-04-18,18:00:00,Addison Trail High School,213 N Lombard Rd,Addison,IL,60101
+2017-10-31 13:46:00,2017-10-31,13:46:00,Adlai E Stevenson High School,1 Stevenson Dr,Lincolnshire,IL,60069
+2017-10-24 07:50:00,2017-10-24,07:50:00,Agoura High School,28545 Driver Ave,Agoura Hills,CA,91301
+2017-02-22 18:00:00,2017-02-22,18:00:00,Agoura High School,28545 Driver Ave,Agoura Hills,CA,91301
+2017-02-16 18:00:00,2017-02-16,18:00:00,St. Mark United Methodist Church,1093 Oswego Hwy,Sumter,SC,29153
+2017-02-21 10:00:00,2017-02-21,10:00:00,Berkeley High School,406 W Main St,Moncks Corner,SC,29461
+2017-02-21 11:00:00,2017-02-21,11:00:00,Lewisville High School,3971 Lewisville High School Rd,Richburg,SC,29729
+2017-02-21 11:15:00,2017-02-21,11:15:00,Hanahan High School,6015 Murray Dr,Hanahan,SC,29410
+2017-04-25 17:00:00,2017-04-25,17:00:00,Stevenson University,1525 Greenspring Valley Rd,Stevenson,MD,21153
+2017-02-07 24:00:00,2017-02-07,24:00:00,Air Academy High School,6910 Carlton Dr,Usaf Academy,CO,80840
+2017-02-21 11:30:00,2017-02-21,11:30:00,Fort Mill High School,225 Munn Rd E,Fort Mill,SC,29715
+2017-02-21 11:40:00,2017-02-21,11:40:00,Nation Ford High School,1400 A O Jones Blvd,Fort Mill,SC,29715
+2017-02-21 24:25:00,2017-02-21,24:25:00,Fort Dorchester High School,8500 Patriot Blvd,N Charleston,SC,29420
+2017-02-21 14:30:00,2017-02-21,14:30:00,Academic Magnet High School,5109A W Enterprise St,N Charleston,SC,29405
+2017-02-22 09:00:00,2017-02-22,09:00:00,Clover High School,1625 Highway 55 E,Clover,SC,29710
+2017-03-13 17:00:00,2017-03-13,17:00:00,Mebane Arts and Community Center,633 Corregidor St,Mebane,NC,27302
+2017-09-18 18:00:00,2017-09-18,18:00:00,Elon University Alumni Gym,East Haggard Avenue,Elon,NC,27244
+2017-09-18 08:00:00,2017-09-18,08:00:00,Elon University Alumni Gym,East Haggard Avenue,Elon,NC,27244
+2017-09-28 08:15:00,2017-09-28,08:15:00,Alamo Heights High School,6900 Broadway St,San Antonio,TX,78209
+2017-10-30 24:30:00,2017-10-30,24:30:00,Alamo Heights High School,6900 Broadway St,San Antonio,TX,78209
+2017-10-04 14:00:00,2017-10-04,14:00:00,Alan C Pope High School,3001 Hembree Rd NE,Marietta,GA,30062
+2017-09-21 09:30:00,2017-09-21,09:30:00,Albemarle High School,2775 Hydraulic Rd,Charlottesvle,VA,22901
